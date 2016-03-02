@@ -15,3 +15,5 @@ This is Currently a bot under construction for discord. This bot utilizises thes
  - No installation needed.
  
  Note: This bot is still under construction and still has a while until it is good enough to use.
+
+See commands File for a list of commands!!
