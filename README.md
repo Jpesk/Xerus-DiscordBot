@@ -17,3 +17,5 @@ This is Currently a bot under construction for discord. This bot utilizises thes
  Note: This bot is still under construction and still has a while until it is good enough to use.
 
 See commands File for a list of commands!!
+
+Come to my discord server if you wish to talk to me -- https://discord.gg/0kvPIGKKEACoKQ8C
