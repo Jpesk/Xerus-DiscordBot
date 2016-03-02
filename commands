@@ -1,0 +1,16 @@
+Welcome to Jormitbot
+Here is a list of commands
+
+!about - Prints Message about the bot.
+!id - prints users id
+!name - prints bot name
+!help - help
+!flip - flips a coin
+!join [server url] - joins specified server
+!guess - play a guessing game
+!cat - For those who like cats
+!talk - talk to the bot and recieve intelligent responses.
+
+Bot will automatically notify everyone when a new person Joins the server.
+
+Have Fun
