@@ -1,6 +1,8 @@
 # JormitBotDiscord
 Welcome to Jormitbot
 
+Language -- Python 3.5
+
 This is Currently a bot under construction for discord. This bot utilizises these libraries -- 
 - Discord.py
 - Cleverbot
