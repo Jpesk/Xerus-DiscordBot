@@ -7,7 +7,7 @@ This is Currently a bot under construction for discord. This bot utilizises thes
 - Discord.py
 - Cleverbot
 
- ⋆ ⋆ Featres ⋆ ⋆
+# Featres ⋆ ⋆
  
  - AI implementation using cleverbot api
  - Able to join any server
