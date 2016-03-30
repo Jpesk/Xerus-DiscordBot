@@ -1,5 +1,5 @@
-# JormitBotDiscord
-Welcome to Jormitbot
+# Xerus
+Welcome to Xerus
 
 Language -- Python 3.5
 
