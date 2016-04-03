@@ -13,6 +13,7 @@ This is Currently a bot under construction for discord. This bot utilizises thes
  - Able to join any server
  - Fast
  - No installation needed.
+ - Csgo simulator
  
  Note: This bot is still under construction and still has a while until it is good enough to use.
 
