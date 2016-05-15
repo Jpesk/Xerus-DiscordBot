@@ -1,0 +1,1 @@
+C:\Users\jordan\AppData\Local\Programs\Python\Python35\python.exe Bot.py
